@@ -1,0 +1,10 @@
+U:\Year 2\Semester2\Applications Development (100% CA)\Labs\Lab2\Question2(2)\Question2(2)\bin\Debug\Question2(2).exe.config
+U:\Year 2\Semester2\Applications Development (100% CA)\Labs\Lab2\Question2(2)\Question2(2)\bin\Debug\Question2(2).exe
+U:\Year 2\Semester2\Applications Development (100% CA)\Labs\Lab2\Question2(2)\Question2(2)\bin\Debug\Question2(2).pdb
+U:\Year 2\Semester2\Applications Development (100% CA)\Labs\Lab2\Question2(2)\Question2(2)\obj\Debug\Question2(2).csprojAssemblyReference.cache
+U:\Year 2\Semester2\Applications Development (100% CA)\Labs\Lab2\Question2(2)\Question2(2)\obj\Debug\Question2_2_.EditPhoneNumber.resources
+U:\Year 2\Semester2\Applications Development (100% CA)\Labs\Lab2\Question2(2)\Question2(2)\obj\Debug\Question2_2_.Properties.Resources.resources
+U:\Year 2\Semester2\Applications Development (100% CA)\Labs\Lab2\Question2(2)\Question2(2)\obj\Debug\Question2(2).csproj.GenerateResource.cache
+U:\Year 2\Semester2\Applications Development (100% CA)\Labs\Lab2\Question2(2)\Question2(2)\obj\Debug\Question2(2).csproj.CoreCompileInputs.cache
+U:\Year 2\Semester2\Applications Development (100% CA)\Labs\Lab2\Question2(2)\Question2(2)\obj\Debug\Question2(2).exe
+U:\Year 2\Semester2\Applications Development (100% CA)\Labs\Lab2\Question2(2)\Question2(2)\obj\Debug\Question2(2).pdb

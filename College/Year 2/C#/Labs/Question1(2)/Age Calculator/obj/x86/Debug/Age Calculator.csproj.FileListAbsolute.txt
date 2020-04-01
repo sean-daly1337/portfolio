@@ -1,0 +1,10 @@
+E:\Youtube Channel\Dotnet Mob\Windows Application\Age Calculator\Project\Age Calculator\Age Calculator\bin\Debug\Age Calculator.exe
+E:\Youtube Channel\Dotnet Mob\Windows Application\Age Calculator\Project\Age Calculator\Age Calculator\bin\Debug\Age Calculator.pdb
+E:\Youtube Channel\Dotnet Mob\Windows Application\Age Calculator\Project\Age Calculator\Age Calculator\obj\x86\Debug\Age_Calculator.Form1.resources
+E:\Youtube Channel\Dotnet Mob\Windows Application\Age Calculator\Project\Age Calculator\Age Calculator\obj\x86\Debug\Age_Calculator.Properties.Resources.resources
+E:\Youtube Channel\Dotnet Mob\Windows Application\Age Calculator\Project\Age Calculator\Age Calculator\obj\x86\Debug\Age Calculator.csproj.GenerateResource.Cache
+E:\Youtube Channel\Dotnet Mob\Windows Application\Age Calculator\Project\Age Calculator\Age Calculator\obj\x86\Debug\Age Calculator.exe
+E:\Youtube Channel\Dotnet Mob\Windows Application\Age Calculator\Project\Age Calculator\Age Calculator\obj\x86\Debug\Age Calculator.pdb
+D:\College\Year 2\Semester 2\Applications Development\Labs\Lab2\Question1(2)\Age Calculator\obj\x86\Debug\Age Calculator.csprojAssemblyReference.cache
+D:\College\Year 2\Semester 2\Applications Development\Labs\Lab2\Question1(2)\Age Calculator\obj\x86\Debug\Age Calculator.exe
+D:\College\Year 2\Semester 2\Applications Development\Labs\Lab2\Question1(2)\Age Calculator\obj\x86\Debug\Age Calculator.pdb

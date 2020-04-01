@@ -1,0 +1,20 @@
+D:\College\Year 2\Semester 2\Applications Development\Labs\Lab2\Question4\Question4\bin\Debug\Question4.exe.config
+D:\College\Year 2\Semester 2\Applications Development\Labs\Lab2\Question4\Question4\bin\Debug\Question4.exe
+D:\College\Year 2\Semester 2\Applications Development\Labs\Lab2\Question4\Question4\bin\Debug\Question4.pdb
+D:\College\Year 2\Semester 2\Applications Development\Labs\Lab2\Question4\Question4\obj\Debug\Question4.Form1.resources
+D:\College\Year 2\Semester 2\Applications Development\Labs\Lab2\Question4\Question4\obj\Debug\Question4.Properties.Resources.resources
+D:\College\Year 2\Semester 2\Applications Development\Labs\Lab2\Question4\Question4\obj\Debug\Question4.csproj.GenerateResource.cache
+D:\College\Year 2\Semester 2\Applications Development\Labs\Lab2\Question4\Question4\obj\Debug\Question4.csproj.CoreCompileInputs.cache
+D:\College\Year 2\Semester 2\Applications Development\Labs\Lab2\Question4\Question4\obj\Debug\Question4.exe
+D:\College\Year 2\Semester 2\Applications Development\Labs\Lab2\Question4\Question4\obj\Debug\Question4.pdb
+D:\College\Year 2\Semester 2\Applications Development\Labs\Lab2\Question4\Question4\obj\Debug\Question4.csprojAssemblyReference.cache
+U:\Year 2\Semester2\Applications Development (100% CA)\Labs\Lab2\Question4\Question4\bin\Debug\Question4.exe.config
+U:\Year 2\Semester2\Applications Development (100% CA)\Labs\Lab2\Question4\Question4\bin\Debug\Question4.exe
+U:\Year 2\Semester2\Applications Development (100% CA)\Labs\Lab2\Question4\Question4\bin\Debug\Question4.pdb
+U:\Year 2\Semester2\Applications Development (100% CA)\Labs\Lab2\Question4\Question4\obj\Debug\Question4.csprojAssemblyReference.cache
+U:\Year 2\Semester2\Applications Development (100% CA)\Labs\Lab2\Question4\Question4\obj\Debug\Question4.Form1.resources
+U:\Year 2\Semester2\Applications Development (100% CA)\Labs\Lab2\Question4\Question4\obj\Debug\Question4.Properties.Resources.resources
+U:\Year 2\Semester2\Applications Development (100% CA)\Labs\Lab2\Question4\Question4\obj\Debug\Question4.csproj.GenerateResource.cache
+U:\Year 2\Semester2\Applications Development (100% CA)\Labs\Lab2\Question4\Question4\obj\Debug\Question4.csproj.CoreCompileInputs.cache
+U:\Year 2\Semester2\Applications Development (100% CA)\Labs\Lab2\Question4\Question4\obj\Debug\Question4.exe
+U:\Year 2\Semester2\Applications Development (100% CA)\Labs\Lab2\Question4\Question4\obj\Debug\Question4.pdb
