@@ -8,3 +8,12 @@ E:\Youtube Channel\Dotnet Mob\Windows Application\Age Calculator\Project\Age Cal
 D:\College\Year 2\Semester 2\Applications Development\Labs\Lab2\Question1(2)\Age Calculator\obj\x86\Debug\Age Calculator.csprojAssemblyReference.cache
 D:\College\Year 2\Semester 2\Applications Development\Labs\Lab2\Question1(2)\Age Calculator\obj\x86\Debug\Age Calculator.exe
 D:\College\Year 2\Semester 2\Applications Development\Labs\Lab2\Question1(2)\Age Calculator\obj\x86\Debug\Age Calculator.pdb
+C:\Users\HP\Desktop\GitHub\portfolio\College\Year 2\C#\Labs\Age Calculator\Age Calculator\bin\Debug\Age Calculator.exe
+C:\Users\HP\Desktop\GitHub\portfolio\College\Year 2\C#\Labs\Age Calculator\Age Calculator\bin\Debug\Age Calculator.pdb
+C:\Users\HP\Desktop\GitHub\portfolio\College\Year 2\C#\Labs\Age Calculator\Age Calculator\obj\x86\Debug\Age Calculator.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\GitHub\portfolio\College\Year 2\C#\Labs\Age Calculator\Age Calculator\obj\x86\Debug\Age_Calculator.Form1.resources
+C:\Users\HP\Desktop\GitHub\portfolio\College\Year 2\C#\Labs\Age Calculator\Age Calculator\obj\x86\Debug\Age_Calculator.Properties.Resources.resources
+C:\Users\HP\Desktop\GitHub\portfolio\College\Year 2\C#\Labs\Age Calculator\Age Calculator\obj\x86\Debug\Age Calculator.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\GitHub\portfolio\College\Year 2\C#\Labs\Age Calculator\Age Calculator\obj\x86\Debug\Age Calculator.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\GitHub\portfolio\College\Year 2\C#\Labs\Age Calculator\Age Calculator\obj\x86\Debug\Age Calculator.exe
+C:\Users\HP\Desktop\GitHub\portfolio\College\Year 2\C#\Labs\Age Calculator\Age Calculator\obj\x86\Debug\Age Calculator.pdb
