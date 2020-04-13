@@ -1,0 +1,55 @@
+C:\Users\K00225446\Desktop\CoffeeProject\CoffeeProject\bin\Debug\CoffeeProject.exe.config
+C:\Users\K00225446\Desktop\CoffeeProject\CoffeeProject\bin\Debug\CoffeeProject.exe
+C:\Users\K00225446\Desktop\CoffeeProject\CoffeeProject\bin\Debug\CoffeeProject.pdb
+C:\Users\K00225446\Desktop\CoffeeProject\CoffeeProject\obj\Debug\CoffeeProject.csprojAssemblyReference.cache
+C:\Users\K00225446\Desktop\CoffeeProject\CoffeeProject\obj\Debug\CoffeeProject.frmMain.resources
+C:\Users\K00225446\Desktop\CoffeeProject\CoffeeProject\obj\Debug\CoffeeProject.Properties.Resources.resources
+C:\Users\K00225446\Desktop\CoffeeProject\CoffeeProject\obj\Debug\CoffeeProject.csproj.GenerateResource.cache
+C:\Users\K00225446\Desktop\CoffeeProject\CoffeeProject\obj\Debug\CoffeeProject.csproj.CoreCompileInputs.cache
+C:\Users\K00225446\Desktop\CoffeeProject\CoffeeProject\obj\Debug\CoffeeProject.exe
+C:\Users\K00225446\Desktop\CoffeeProject\CoffeeProject\obj\Debug\CoffeeProject.pdb
+C:\Users\Ann-Note\Documents\College\Year2\ApplicationDevelopment\CoffeeProject\CoffeeProject\bin\Debug\CoffeeProject.exe.config
+C:\Users\Ann-Note\Documents\College\Year2\ApplicationDevelopment\CoffeeProject\CoffeeProject\bin\Debug\CoffeeProject.exe
+C:\Users\Ann-Note\Documents\College\Year2\ApplicationDevelopment\CoffeeProject\CoffeeProject\bin\Debug\CoffeeProject.pdb
+C:\Users\Ann-Note\Documents\College\Year2\ApplicationDevelopment\CoffeeProject\CoffeeProject\obj\Debug\CoffeeProject.csprojResolveAssemblyReference.cache
+C:\Users\Ann-Note\Documents\College\Year2\ApplicationDevelopment\CoffeeProject\CoffeeProject\obj\Debug\CoffeeProject.frmMain.resources
+C:\Users\Ann-Note\Documents\College\Year2\ApplicationDevelopment\CoffeeProject\CoffeeProject\obj\Debug\CoffeeProject.Properties.Resources.resources
+C:\Users\Ann-Note\Documents\College\Year2\ApplicationDevelopment\CoffeeProject\CoffeeProject\obj\Debug\CoffeeProject.csproj.GenerateResource.Cache
+C:\Users\Ann-Note\Documents\College\Year2\ApplicationDevelopment\CoffeeProject\CoffeeProject\obj\Debug\CoffeeProject.csproj.CoreCompileInputs.cache
+C:\Users\Ann-Note\Documents\College\Year2\ApplicationDevelopment\CoffeeProject\CoffeeProject\obj\Debug\CoffeeProject.exe
+C:\Users\Ann-Note\Documents\College\Year2\ApplicationDevelopment\CoffeeProject\CoffeeProject\obj\Debug\CoffeeProject.pdb
+C:\Users\Ann-Note\Documents\College\Year2\ApplicationDevelopment\Project\CoffeeProject\CoffeeProject\bin\Debug\CoffeeProject.exe.config
+C:\Users\Ann-Note\Documents\College\Year2\ApplicationDevelopment\Project\CoffeeProject\CoffeeProject\bin\Debug\CoffeeProject.exe
+C:\Users\Ann-Note\Documents\College\Year2\ApplicationDevelopment\Project\CoffeeProject\CoffeeProject\bin\Debug\CoffeeProject.pdb
+C:\Users\Ann-Note\Documents\College\Year2\ApplicationDevelopment\Project\CoffeeProject\CoffeeProject\obj\Debug\CoffeeProject.csprojResolveAssemblyReference.cache
+C:\Users\Ann-Note\Documents\College\Year2\ApplicationDevelopment\Project\CoffeeProject\CoffeeProject\obj\Debug\CoffeeProject.frmMain.resources
+C:\Users\Ann-Note\Documents\College\Year2\ApplicationDevelopment\Project\CoffeeProject\CoffeeProject\obj\Debug\CoffeeProject.Properties.Resources.resources
+C:\Users\Ann-Note\Documents\College\Year2\ApplicationDevelopment\Project\CoffeeProject\CoffeeProject\obj\Debug\CoffeeProject.csproj.GenerateResource.Cache
+C:\Users\Ann-Note\Documents\College\Year2\ApplicationDevelopment\Project\CoffeeProject\CoffeeProject\obj\Debug\CoffeeProject.csproj.CoreCompileInputs.cache
+C:\Users\Ann-Note\Documents\College\Year2\ApplicationDevelopment\Project\CoffeeProject\CoffeeProject\obj\Debug\CoffeeProject.exe
+C:\Users\Ann-Note\Documents\College\Year2\ApplicationDevelopment\Project\CoffeeProject\CoffeeProject\obj\Debug\CoffeeProject.pdb
+C:\Users\Jonathan Roddy\Desktop\CoffeeProject\CoffeeProject\bin\Debug\CoffeeProject.exe.config
+C:\Users\Jonathan Roddy\Desktop\CoffeeProject\CoffeeProject\bin\Debug\CoffeeProject.exe
+C:\Users\Jonathan Roddy\Desktop\CoffeeProject\CoffeeProject\bin\Debug\CoffeeProject.pdb
+C:\Users\Jonathan Roddy\Desktop\CoffeeProject\CoffeeProject\obj\Debug\CoffeeProject.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan Roddy\Desktop\CoffeeProject\CoffeeProject\obj\Debug\CoffeeProject.frmMain.resources
+C:\Users\Jonathan Roddy\Desktop\CoffeeProject\CoffeeProject\obj\Debug\CoffeeProject.Properties.Resources.resources
+C:\Users\Jonathan Roddy\Desktop\CoffeeProject\CoffeeProject\obj\Debug\CoffeeProject.csproj.GenerateResource.Cache
+C:\Users\Jonathan Roddy\Desktop\CoffeeProject\CoffeeProject\obj\Debug\CoffeeProject.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan Roddy\Desktop\CoffeeProject\CoffeeProject\obj\Debug\CoffeeProject.exe
+C:\Users\Jonathan Roddy\Desktop\CoffeeProject\CoffeeProject\obj\Debug\CoffeeProject.pdb
+C:\Users\Jonathan Roddy\Desktop\CoffeeProject\CoffeeProject\obj\Debug\CoffeeProject.frmProduct.resources
+C:\Users\Jonathan Roddy\Desktop\Product\CoffeeProject\CoffeeProject\bin\Debug\CoffeeProject.exe.config
+C:\Users\Jonathan Roddy\Desktop\Product\CoffeeProject\CoffeeProject\bin\Debug\CoffeeProject.exe
+C:\Users\Jonathan Roddy\Desktop\Product\CoffeeProject\CoffeeProject\bin\Debug\CoffeeProject.pdb
+C:\Users\Jonathan Roddy\Desktop\Product\CoffeeProject\CoffeeProject\obj\Debug\CoffeeProject.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan Roddy\Desktop\Product\CoffeeProject\CoffeeProject\obj\Debug\CoffeeProject.frmAddProduct.resources
+C:\Users\Jonathan Roddy\Desktop\Product\CoffeeProject\CoffeeProject\obj\Debug\CoffeeProject.frmMain.resources
+C:\Users\Jonathan Roddy\Desktop\Product\CoffeeProject\CoffeeProject\obj\Debug\CoffeeProject.frmModifyProduct.resources
+C:\Users\Jonathan Roddy\Desktop\Product\CoffeeProject\CoffeeProject\obj\Debug\CoffeeProject.frmProduct.resources
+C:\Users\Jonathan Roddy\Desktop\Product\CoffeeProject\CoffeeProject\obj\Debug\CoffeeProject.Properties.Resources.resources
+C:\Users\Jonathan Roddy\Desktop\Product\CoffeeProject\CoffeeProject\obj\Debug\CoffeeProject.csproj.GenerateResource.Cache
+C:\Users\Jonathan Roddy\Desktop\Product\CoffeeProject\CoffeeProject\obj\Debug\CoffeeProject.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan Roddy\Desktop\Product\CoffeeProject\CoffeeProject\obj\Debug\CoffeeProject.exe
+C:\Users\Jonathan Roddy\Desktop\Product\CoffeeProject\CoffeeProject\obj\Debug\CoffeeProject.pdb
+C:\Users\Jonathan Roddy\Desktop\Product\CoffeeProject\CoffeeProject\obj\Debug\CoffeeProject.frmStatistics.resources

@@ -1,0 +1,1 @@
+﻿2|Cool|Medium|2|none|50|none|False|False|False|False

@@ -1,0 +1,30 @@
+C:\Users\HP\Desktop\College\Applications Development\StaffTab\StaffTab\bin\Debug\StaffTab.exe.config
+C:\Users\HP\Desktop\College\Applications Development\StaffTab\StaffTab\bin\Debug\StaffTab.exe
+C:\Users\HP\Desktop\College\Applications Development\StaffTab\StaffTab\bin\Debug\StaffTab.pdb
+C:\Users\HP\Desktop\College\Applications Development\StaffTab\StaffTab\obj\Debug\StaffTab.frmStaff.resources
+C:\Users\HP\Desktop\College\Applications Development\StaffTab\StaffTab\obj\Debug\StaffTab.Properties.Resources.resources
+C:\Users\HP\Desktop\College\Applications Development\StaffTab\StaffTab\obj\Debug\StaffTab.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\College\Applications Development\StaffTab\StaffTab\obj\Debug\StaffTab.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\College\Applications Development\StaffTab\StaffTab\obj\Debug\StaffTab.exe
+C:\Users\HP\Desktop\College\Applications Development\StaffTab\StaffTab\obj\Debug\StaffTab.pdb
+C:\Users\HP\Desktop\College\Applications Development\StaffTab\StaffTab\obj\Debug\StaffTab.csprojAssemblyReference.cache
+C:\Users\Hammad\Desktop\StaffTab\StaffTab\bin\Debug\StaffTab.exe.config
+C:\Users\Hammad\Desktop\StaffTab\StaffTab\bin\Debug\StaffTab.exe
+C:\Users\Hammad\Desktop\StaffTab\StaffTab\bin\Debug\StaffTab.pdb
+C:\Users\Hammad\Desktop\StaffTab\StaffTab\obj\Debug\StaffTab.csprojAssemblyReference.cache
+C:\Users\Hammad\Desktop\StaffTab\StaffTab\obj\Debug\StaffTab.frmStaff.resources
+C:\Users\Hammad\Desktop\StaffTab\StaffTab\obj\Debug\StaffTab.Properties.Resources.resources
+C:\Users\Hammad\Desktop\StaffTab\StaffTab\obj\Debug\StaffTab.csproj.GenerateResource.cache
+C:\Users\Hammad\Desktop\StaffTab\StaffTab\obj\Debug\StaffTab.csproj.CoreCompileInputs.cache
+C:\Users\Hammad\Desktop\StaffTab\StaffTab\obj\Debug\StaffTab.exe
+C:\Users\Hammad\Desktop\StaffTab\StaffTab\obj\Debug\StaffTab.pdb
+C:\Users\HP\Desktop\StaffTab\StaffTab\bin\Debug\StaffTab.exe.config
+C:\Users\HP\Desktop\StaffTab\StaffTab\bin\Debug\StaffTab.exe
+C:\Users\HP\Desktop\StaffTab\StaffTab\bin\Debug\StaffTab.pdb
+C:\Users\HP\Desktop\StaffTab\StaffTab\obj\Debug\StaffTab.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\StaffTab\StaffTab\obj\Debug\StaffTab.frmStaff.resources
+C:\Users\HP\Desktop\StaffTab\StaffTab\obj\Debug\StaffTab.Properties.Resources.resources
+C:\Users\HP\Desktop\StaffTab\StaffTab\obj\Debug\StaffTab.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\StaffTab\StaffTab\obj\Debug\StaffTab.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\StaffTab\StaffTab\obj\Debug\StaffTab.exe
+C:\Users\HP\Desktop\StaffTab\StaffTab\obj\Debug\StaffTab.pdb
