@@ -1,0 +1,26 @@
+/Users/markhester/Documents/College/KSDEM_8_Y2 - OO Theory and Programming/Lab 2/The book shop/The book shop/bin/Debug/The_book_shop.exe
+/Users/markhester/Documents/College/KSDEM_8_Y2 - OO Theory and Programming/Lab 2/The book shop/The book shop/bin/Debug/The_book_shop.pdb
+/Users/markhester/Documents/College/KSDEM_8_Y2 - OO Theory and Programming/Lab 2/The book shop/The book shop/obj/Debug/The book shop.csprojAssemblyReference.cache
+/Users/markhester/Documents/College/KSDEM_8_Y2 - OO Theory and Programming/Lab 2/The book shop/The book shop/obj/Debug/The book shop.csproj.CoreCompileInputs.cache
+/Users/markhester/Documents/College/KSDEM_8_Y2 - OO Theory and Programming/Lab 2/The book shop/The book shop/obj/Debug/The_book_shop.exe
+/Users/markhester/Documents/College/KSDEM_8_Y2 - OO Theory and Programming/Lab 2/The book shop/The book shop/obj/Debug/The_book_shop.pdb
+/Users/markhester/Documents/College/KSDEM_8_Y2 - OO Theory and Programming/Lab 3/Book Shop Collection/The book shop/obj/Debug/The book shop.csprojAssemblyReference.cache
+/Users/markhester/Documents/College/KSDEM_8_Y2 - OO Theory and Programming/Lab 3/Book Shop Collection/The book shop/obj/Debug/The book shop.csproj.CoreCompileInputs.cache
+/Users/markhester/Documents/College/KSDEM_8_Y2 - OO Theory and Programming/Lab 3/Book Shop Collection/The book shop/obj/Debug/The_book_shop.exe
+/Users/markhester/Documents/College/KSDEM_8_Y2 - OO Theory and Programming/Lab 3/Book Shop Collection/The book shop/obj/Debug/The_book_shop.pdb
+/Users/markhester/Documents/College/KSDEM_8_Y2 - OO Theory and Programming/Lab 3/Book Shop Collection/The book shop/bin/Debug/The_book_shop.exe
+/Users/markhester/Documents/College/KSDEM_8_Y2 - OO Theory and Programming/Lab 3/Book Shop Collection/The book shop/bin/Debug/The_book_shop.pdb
+C:\Users\Sean\Desktop\Book Shop Collection\The book shop\bin\Debug\The_book_shop.exe.config
+C:\Users\Sean\Desktop\Book Shop Collection\The book shop\bin\Debug\The_book_shop.exe
+C:\Users\Sean\Desktop\Book Shop Collection\The book shop\bin\Debug\The_book_shop.pdb
+C:\Users\Sean\Desktop\Book Shop Collection\The book shop\obj\Debug\The book shop.csprojAssemblyReference.cache
+C:\Users\Sean\Desktop\Book Shop Collection\The book shop\obj\Debug\The book shop.csproj.CoreCompileInputs.cache
+C:\Users\Sean\Desktop\Book Shop Collection\The book shop\obj\Debug\The_book_shop.exe
+C:\Users\Sean\Desktop\Book Shop Collection\The book shop\obj\Debug\The_book_shop.pdb
+C:\Users\HP\Desktop\Book Shop Collection\The book shop\bin\Debug\The_book_shop.exe.config
+C:\Users\HP\Desktop\Book Shop Collection\The book shop\bin\Debug\The_book_shop.exe
+C:\Users\HP\Desktop\Book Shop Collection\The book shop\bin\Debug\The_book_shop.pdb
+C:\Users\HP\Desktop\Book Shop Collection\The book shop\obj\Debug\The book shop.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Book Shop Collection\The book shop\obj\Debug\The book shop.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Book Shop Collection\The book shop\obj\Debug\The_book_shop.exe
+C:\Users\HP\Desktop\Book Shop Collection\The book shop\obj\Debug\The_book_shop.pdb

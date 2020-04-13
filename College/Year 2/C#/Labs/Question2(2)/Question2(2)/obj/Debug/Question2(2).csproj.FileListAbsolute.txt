@@ -8,3 +8,13 @@ U:\Year 2\Semester2\Applications Development (100% CA)\Labs\Lab2\Question2(2)\Qu
 U:\Year 2\Semester2\Applications Development (100% CA)\Labs\Lab2\Question2(2)\Question2(2)\obj\Debug\Question2(2).csproj.CoreCompileInputs.cache
 U:\Year 2\Semester2\Applications Development (100% CA)\Labs\Lab2\Question2(2)\Question2(2)\obj\Debug\Question2(2).exe
 U:\Year 2\Semester2\Applications Development (100% CA)\Labs\Lab2\Question2(2)\Question2(2)\obj\Debug\Question2(2).pdb
+C:\Users\HP\Desktop\GitHub\portfolio\College\Year 2\C#\Labs\Question2(2)\Question2(2)\bin\Debug\Question2(2).exe.config
+C:\Users\HP\Desktop\GitHub\portfolio\College\Year 2\C#\Labs\Question2(2)\Question2(2)\bin\Debug\Question2(2).exe
+C:\Users\HP\Desktop\GitHub\portfolio\College\Year 2\C#\Labs\Question2(2)\Question2(2)\bin\Debug\Question2(2).pdb
+C:\Users\HP\Desktop\GitHub\portfolio\College\Year 2\C#\Labs\Question2(2)\Question2(2)\obj\Debug\Question2(2).csprojAssemblyReference.cache
+C:\Users\HP\Desktop\GitHub\portfolio\College\Year 2\C#\Labs\Question2(2)\Question2(2)\obj\Debug\Question2_2_.EditPhoneNumber.resources
+C:\Users\HP\Desktop\GitHub\portfolio\College\Year 2\C#\Labs\Question2(2)\Question2(2)\obj\Debug\Question2_2_.Properties.Resources.resources
+C:\Users\HP\Desktop\GitHub\portfolio\College\Year 2\C#\Labs\Question2(2)\Question2(2)\obj\Debug\Question2(2).csproj.GenerateResource.cache
+C:\Users\HP\Desktop\GitHub\portfolio\College\Year 2\C#\Labs\Question2(2)\Question2(2)\obj\Debug\Question2(2).csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\GitHub\portfolio\College\Year 2\C#\Labs\Question2(2)\Question2(2)\obj\Debug\Question2(2).exe
+C:\Users\HP\Desktop\GitHub\portfolio\College\Year 2\C#\Labs\Question2(2)\Question2(2)\obj\Debug\Question2(2).pdb

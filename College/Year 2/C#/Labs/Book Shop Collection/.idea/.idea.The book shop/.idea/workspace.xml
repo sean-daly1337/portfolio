@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d86b0a96-a4a3-472b-bbd8-70f4e2eb68c7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1060581927">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="9271" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="9271" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-295938598">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.4" value="4" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1935250906">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="4" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="5407" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="5407" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="24" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="24" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/The book shop/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1591">
+              <caret line="89" column="12" selection-start-line="89" selection-start-column="12" selection-end-line="89" selection-end-column="12" />
+              <folding>
+                <marker date="1539946690421" expanded="true" signature="0:65" ph="/* Mark Hester (k00233238) ... */" />
+                <marker date="1539946690421" expanded="false" signature="72:269" ph="..." />
+                <marker date="1539946690421" expanded="true" signature="294:8335" ph="{...}" />
+                <marker date="1539946690421" expanded="true" signature="330:8333" ph="{...}" />
+                <marker date="1539946690421" expanded="true" signature="462:2994" ph="{...}" />
+                <marker date="1539946690421" expanded="true" signature="1999:2956" ph="{...}" />
+                <marker date="1539946690421" expanded="true" signature="3034:3908" ph="{...}" />
+                <marker date="1539946690421" expanded="true" signature="3422:3680" ph="{...}" />
+                <marker date="1539946690421" expanded="true" signature="3958:4463" ph="{...}" />
+                <marker date="1539946690421" expanded="true" signature="4159:4361" ph="{...}" />
+                <marker date="1539946690421" expanded="true" signature="4212:4347" ph="{...}" />
+                <marker date="1539946690421" expanded="true" signature="4515:4838" ph="{...}" />
+                <marker date="1539946690421" expanded="true" signature="4667:4737" ph="{...}" />
+                <marker date="1539946690421" expanded="true" signature="4887:5354" ph="{...}" />
+                <marker date="1539946690421" expanded="true" signature="5088:5266" ph="{...}" />
+                <marker date="1539946690421" expanded="true" signature="5141:5252" ph="{...}" />
+                <marker date="1539946690421" expanded="true" signature="5404:6128" ph="{...}" />
+                <marker date="1539946690421" expanded="true" signature="5593:6028" ph="{...}" />
+                <marker date="1539946690421" expanded="true" signature="5646:6014" ph="{...}" />
+                <marker date="1539946690421" expanded="true" signature="6214:7144" ph="{...}" />
+                <marker date="1539946690421" expanded="true" signature="6372:7134" ph="{...}" />
+                <marker date="1539946690421" expanded="true" signature="6420:7120" ph="{...}" />
+                <marker date="1539946690421" expanded="true" signature="7196:8023" ph="{...}" />
+                <marker date="1539946690421" expanded="true" signature="7341:7605" ph="{...}" />
+                <marker date="1539946690421" expanded="true" signature="7391:7444" ph="{...}" />
+                <marker date="1539946690421" expanded="true" signature="7472:7528" ph="{...}" />
+                <marker date="1539946690421" expanded="true" signature="8077:8327" ph="{...}" />
+                <marker date="1539946690421" expanded="true" signature="8138:8317" ph="{...}" />
+                <marker date="1539946690421" expanded="true" signature="8200:8303" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/The book shop/IDownloadable.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+              <folding>
+                <marker date="1539945778303" expanded="true" signature="23:312" ph="{...}" />
+                <marker date="1539945778303" expanded="true" signature="60:310" ph="{...}" />
+                <marker date="1539945778303" expanded="true" signature="75:277" ph="/* @todo: The interface should have one method called printURL which accepts no parameters and returns a ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>total</find>
+      <find>printurl</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F3F2AA82-C3A0-4D48-8454-85CE37124803/08/a7e07e8a/ArraySortHelper`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F3F2AA82-C3A0-4D48-8454-85CE37124803/ea/2e6341f0/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CC3B329D-40BD-4675-AE0E-985E302972AF/c6/54815390/OrderedEnumerable`2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F3F2AA82-C3A0-4D48-8454-85CE37124803/42/411c7994/IComparer`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/The book shop/Comparison/CompareBookAuthor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/The book shop/Comparison/CompareBookIsbn.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CC3B329D-40BD-4675-AE0E-985E302972AF/db/d0fe29c9/Enumerable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/The book shop/Comparison/CompareBookCost.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/The book shop/PaperBook.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/The book shop/EBook.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/The book shop/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/The book shop/EJournal.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/The book shop/IDownloadable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/The book shop/Book.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F3F2AA82-C3A0-4D48-8454-85CE37124803/a3/e83759df/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F3F2AA82-C3A0-4D48-8454-85CE37124803/89/00399a8d/Array.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/The book shop/BookCollection.cs" />
+        <option value="$PROJECT_DIR$/The book shop/eJournal.cs" />
+        <option value="$PROJECT_DIR$/The book shop/StudentCompareName.cs" />
+        <option value="$PROJECT_DIR$/The book shop/CompareBookIsbn.cs" />
+        <option value="$PROJECT_DIR$/The book shop/CompareBookAuthor.cs" />
+        <option value="$PROJECT_DIR$/The book shop/Comparison/CompareBookAuthor.cs" />
+        <option value="$PROJECT_DIR$/The book shop/Comparison/CompareBookIsbn.cs" />
+        <option value="$PROJECT_DIR$/The book shop/Comparison/CompareCost.cs" />
+        <option value="$PROJECT_DIR$/The book shop/PaperBook.cs" />
+        <option value="$PROJECT_DIR$/The book shop/EBook.cs" />
+        <option value="$PROJECT_DIR$/The book shop/Book.cs" />
+        <option value="$PROJECT_DIR$/The book shop/IDownloadable.cs" />
+        <option value="$PROJECT_DIR$/The book shop/EJournal.cs" />
+        <option value="$PROJECT_DIR$/The book shop/Comparison/CompareBookCost.cs" />
+        <option value="$PROJECT_DIR$/The book shop/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="The book shop" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="The book shop" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="The book shop" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="The book shop" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="The book shop" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Comparison" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="ejo&#9;FILE&#9;file:///Users/markhester/Documents/College/KSDEM_8_Y2 - OO Theory and Programming/Lab 3/Book Shop Collection/The book shop/EJournal.cs" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/The book shop/bin/Debug/The_book_shop.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/The book shop/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/The book shop/The book shop.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d86b0a96-a4a3-472b-bbd8-70f4e2eb68c7" name="Default Changelist" comment="" />
+      <created>1538641878146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538641878146</updated>
+      <workItem from="1538641880281" duration="5230000" />
+      <workItem from="1538678949987" duration="10378000" />
+      <workItem from="1539003485375" duration="504000" />
+      <workItem from="1539007559361" duration="567000" />
+      <workItem from="1539251479100" duration="218000" />
+      <workItem from="1539340822324" duration="11000" />
+      <workItem from="1539340869171" duration="2238000" />
+      <workItem from="1539353447156" duration="4018000" />
+      <workItem from="1539726942914" duration="58000" />
+      <workItem from="1539851159707" duration="4197000" />
+      <workItem from="1539882524183" duration="2459000" />
+      <workItem from="1539943804666" duration="3476000" />
+      <workItem from="1540065246206" duration="954000" />
+      <workItem from="1540459047704" duration="1427000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="35735000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18526466" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27228916" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.45783132" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" weight="0.12530121" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32891566" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.42771083" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16165951" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.426506" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" weight="0.12530121" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.38554215" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F3F2AA82-C3A0-4D48-8454-85CE37124803/ea/2e6341f0/List`1.cs</url>
+          <line>674</line>
+          <properties documentPath="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F3F2AA82-C3A0-4D48-8454-85CE37124803/ea/2e6341f0/List`1.cs" initialLine="674">
+            <startOffsets>
+              <option value="20552" />
+            </startOffsets>
+            <endOffsets>
+              <option value="20674" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/The book shop/Book.cs</url>
+          <line>32</line>
+          <properties documentPath="$PROJECT_DIR$/The book shop/Book.cs" initialLine="32">
+            <startOffsets>
+              <option value="843" />
+            </startOffsets>
+            <endOffsets>
+              <option value="900" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/The book shop/Program.cs</url>
+          <line>173</line>
+          <properties documentPath="$PROJECT_DIR$/The book shop/Program.cs" initialLine="173">
+            <startOffsets>
+              <option value="6297" />
+            </startOffsets>
+            <endOffsets>
+              <option value="6324" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/The book shop/BookCollection.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CC3B329D-40BD-4675-AE0E-985E302972AF/c6/54815390/OrderedEnumerable`2.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="50" lean-forward="true" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CC3B329D-40BD-4675-AE0E-985E302972AF/db/d0fe29c9/Enumerable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="2632" column="49" selection-start-line="2632" selection-start-column="49" selection-end-line="2632" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/The book shop/Comparison/CompareCost.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F3F2AA82-C3A0-4D48-8454-85CE37124803/42/411c7994/IComparer`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F3F2AA82-C3A0-4D48-8454-85CE37124803/89/00399a8d/Array.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13232">
+          <caret line="827" column="28" selection-start-line="827" selection-start-column="28" selection-end-line="827" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/The book shop/Comparison/CompareBookIsbn.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/The book shop/Comparison/CompareBookAuthor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/The book shop/Comparison/CompareBookCost.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <marker date="1539946443782" expanded="true" signature="6:59" ph="..." />
+            <marker date="1539946443782" expanded="true" signature="148:290" ph="{...}" />
+            <marker date="1539946443782" expanded="true" signature="197:284" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F3F2AA82-C3A0-4D48-8454-85CE37124803/a3/e83759df/Object.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" column="23" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/The book shop/PaperBook.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="29" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
+          <folding>
+            <marker date="1539884171068" expanded="true" signature="75:1724" ph="{...}" />
+            <marker date="1539884171068" expanded="true" signature="246:344" ph="{...}" />
+            <marker date="1539884171068" expanded="true" signature="543:659" ph="{...}" />
+            <marker date="1539884171068" expanded="true" signature="715:839" ph="{...}" />
+            <marker date="1539884171068" expanded="true" signature="897:1275" ph="{...}" />
+            <marker date="1539884171068" expanded="true" signature="1337:1717" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/The book shop/EJournal.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+          <folding>
+            <marker date="1539946175141" expanded="true" signature="88:1703" ph="{...}" />
+            <marker date="1539946175141" expanded="true" signature="240:328" ph="{...}" />
+            <marker date="1539946175141" expanded="true" signature="507:613" ph="{...}" />
+            <marker date="1539946175141" expanded="true" signature="661:749" ph="{...}" />
+            <marker date="1539946175141" expanded="true" signature="799:1163" ph="{...}" />
+            <marker date="1539946175141" expanded="true" signature="1217:1599" ph="{...}" />
+            <marker date="1539946175141" expanded="true" signature="1640:1697" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/The book shop/EBook.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="28" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
+          <folding>
+            <marker date="1539884183927" expanded="true" signature="85:1793" ph="{...}" />
+            <marker date="1539884183927" expanded="true" signature="237:326" ph="{...}" />
+            <marker date="1539884183927" expanded="true" signature="506:608" ph="{...}" />
+            <marker date="1539884183927" expanded="true" signature="641:691" ph="{...}" />
+            <marker date="1539884183927" expanded="true" signature="725:782" ph="{...}" />
+            <marker date="1539884183927" expanded="true" signature="838:918" ph="{...}" />
+            <marker date="1539884183927" expanded="true" signature="976:1341" ph="{...}" />
+            <marker date="1539884183927" expanded="true" signature="1403:1787" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F3F2AA82-C3A0-4D48-8454-85CE37124803/08/a7e07e8a/ArraySortHelper`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F3F2AA82-C3A0-4D48-8454-85CE37124803/ea/2e6341f0/List`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10320">
+          <caret line="688" column="6" selection-start-line="688" selection-start-column="6" selection-end-line="688" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/The book shop/Book.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="40" column="36" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/The book shop/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1591">
+          <caret line="89" column="12" selection-start-line="89" selection-start-column="12" selection-end-line="89" selection-end-column="12" />
+          <folding>
+            <marker date="1539946690421" expanded="true" signature="0:65" ph="/* Mark Hester (k00233238) ... */" />
+            <marker date="1539946690421" expanded="false" signature="72:269" ph="..." />
+            <marker date="1539946690421" expanded="true" signature="294:8335" ph="{...}" />
+            <marker date="1539946690421" expanded="true" signature="330:8333" ph="{...}" />
+            <marker date="1539946690421" expanded="true" signature="462:2994" ph="{...}" />
+            <marker date="1539946690421" expanded="true" signature="1999:2956" ph="{...}" />
+            <marker date="1539946690421" expanded="true" signature="3034:3908" ph="{...}" />
+            <marker date="1539946690421" expanded="true" signature="3422:3680" ph="{...}" />
+            <marker date="1539946690421" expanded="true" signature="3958:4463" ph="{...}" />
+            <marker date="1539946690421" expanded="true" signature="4159:4361" ph="{...}" />
+            <marker date="1539946690421" expanded="true" signature="4212:4347" ph="{...}" />
+            <marker date="1539946690421" expanded="true" signature="4515:4838" ph="{...}" />
+            <marker date="1539946690421" expanded="true" signature="4667:4737" ph="{...}" />
+            <marker date="1539946690421" expanded="true" signature="4887:5354" ph="{...}" />
+            <marker date="1539946690421" expanded="true" signature="5088:5266" ph="{...}" />
+            <marker date="1539946690421" expanded="true" signature="5141:5252" ph="{...}" />
+            <marker date="1539946690421" expanded="true" signature="5404:6128" ph="{...}" />
+            <marker date="1539946690421" expanded="true" signature="5593:6028" ph="{...}" />
+            <marker date="1539946690421" expanded="true" signature="5646:6014" ph="{...}" />
+            <marker date="1539946690421" expanded="true" signature="6214:7144" ph="{...}" />
+            <marker date="1539946690421" expanded="true" signature="6372:7134" ph="{...}" />
+            <marker date="1539946690421" expanded="true" signature="6420:7120" ph="{...}" />
+            <marker date="1539946690421" expanded="true" signature="7196:8023" ph="{...}" />
+            <marker date="1539946690421" expanded="true" signature="7341:7605" ph="{...}" />
+            <marker date="1539946690421" expanded="true" signature="7391:7444" ph="{...}" />
+            <marker date="1539946690421" expanded="true" signature="7472:7528" ph="{...}" />
+            <marker date="1539946690421" expanded="true" signature="8077:8327" ph="{...}" />
+            <marker date="1539946690421" expanded="true" signature="8138:8317" ph="{...}" />
+            <marker date="1539946690421" expanded="true" signature="8200:8303" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/The book shop/IDownloadable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <marker date="1539945778303" expanded="true" signature="23:312" ph="{...}" />
+            <marker date="1539945778303" expanded="true" signature="60:310" ph="{...}" />
+            <marker date="1539945778303" expanded="true" signature="75:277" ph="/* @todo: The interface should have one method called printURL which accepts no parameters and returns a ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

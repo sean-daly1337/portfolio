@@ -18,3 +18,13 @@ U:\Year 2\Semester2\Applications Development (100% CA)\Labs\Lab2\Question4\Quest
 U:\Year 2\Semester2\Applications Development (100% CA)\Labs\Lab2\Question4\Question4\obj\Debug\Question4.csproj.CoreCompileInputs.cache
 U:\Year 2\Semester2\Applications Development (100% CA)\Labs\Lab2\Question4\Question4\obj\Debug\Question4.exe
 U:\Year 2\Semester2\Applications Development (100% CA)\Labs\Lab2\Question4\Question4\obj\Debug\Question4.pdb
+C:\Users\HP\Desktop\GitHub\portfolio\College\Year 2\C#\Labs\Question4\Question4\bin\Debug\Question4.exe.config
+C:\Users\HP\Desktop\GitHub\portfolio\College\Year 2\C#\Labs\Question4\Question4\bin\Debug\Question4.exe
+C:\Users\HP\Desktop\GitHub\portfolio\College\Year 2\C#\Labs\Question4\Question4\bin\Debug\Question4.pdb
+C:\Users\HP\Desktop\GitHub\portfolio\College\Year 2\C#\Labs\Question4\Question4\obj\Debug\Question4.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\GitHub\portfolio\College\Year 2\C#\Labs\Question4\Question4\obj\Debug\Question4.Form1.resources
+C:\Users\HP\Desktop\GitHub\portfolio\College\Year 2\C#\Labs\Question4\Question4\obj\Debug\Question4.Properties.Resources.resources
+C:\Users\HP\Desktop\GitHub\portfolio\College\Year 2\C#\Labs\Question4\Question4\obj\Debug\Question4.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\GitHub\portfolio\College\Year 2\C#\Labs\Question4\Question4\obj\Debug\Question4.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\GitHub\portfolio\College\Year 2\C#\Labs\Question4\Question4\obj\Debug\Question4.exe
+C:\Users\HP\Desktop\GitHub\portfolio\College\Year 2\C#\Labs\Question4\Question4\obj\Debug\Question4.pdb
