@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+
+        <import type="android.view.View" />
+
+        <variable
+            name="isLoading"
+            type="boolean" />
+
+    </data>
+
+    <LinearLayout
+        android:id="@+id/container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorWhite"
+        android:orientation="vertical"
+        android:paddingTop="@dimen/activity_vertical_margin"
+
+        android:paddingBottom="@dimen/activity_vertical_margin">
+
+        <ImageView
+            android:id="@+id/img_back"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginStart="25dp"
+            android:onClick="onBackPress"
+            android:src="@drawable/ic_back" />
+
+        <TextView
+            android:id="@+id/tv_small_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tv_title"
+            android:layout_marginTop="10dp"
+            android:padding="2dp"
+            android:paddingStart="25dp"
+            android:paddingEnd="25dp"
+            android:text="Edit Profile"
+            android:textAlignment="viewStart"
+            android:textColor="@color/colorThemeLightGrey"
+            android:textSize="22dp" />
+
+        <ImageView
+            android:id="@+id/iv_avatar"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"
+            android:src="@drawable/bg_profile_pic" />
+
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <com.gd70.android.validator.ValidatorEditText
+                android:id="@+id/edt_user_name"
+                style="@style/DefaultEditText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bg_profile_edt"
+                android:clickable="false"
+                android:hint="Enter your Name"
+                android:inputType="text"
+                android:paddingStart="75dp"
+                android:paddingEnd="45dp"
+                android:textColor="@color/colorThemeTextColor"
+                android:textColorHint="@color/colorThemeTextColor"
+                app:checkType="username"
+                app:invalidBackground="@drawable/bg_profile_edt"
+                app:required="true"
+                app:validBackground="@drawable/bg_profile_edt"
+                app:validDrawable="@drawable/ic_correct" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:paddingStart="45dp"
+                android:src="@drawable/user_name" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <com.gd70.android.validator.ValidatorEditText
+                android:id="@+id/edt_email"
+                style="@style/DefaultEditText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="-15dp"
+                android:background="@drawable/bg_profile_edt"
+                android:hint="Enter your Email"
+                android:inputType="textEmailAddress"
+                android:paddingStart="75dp"
+                android:paddingEnd="45dp"
+                android:textColor="@color/colorThemeTextColor"
+                android:textColorHint="@color/colorThemeTextColor"
+                app:checkType="email"
+                app:invalidBackground="@drawable/bg_profile_edt"
+                app:required="true"
+                app:validBackground="@drawable/bg_profile_edt"
+                app:validDrawable="@drawable/ic_correct" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginTop="-7dp"
+                android:paddingStart="45dp"
+                android:src="@drawable/user_email" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <com.gd70.android.validator.ValidatorEditText
+                android:id="@+id/edt_dob"
+                style="@style/DefaultEditText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="-15dp"
+                android:background="@drawable/bg_profile_edt"
+                android:hint="Enter Date of birth (DD/MM/YYYY)"
+                android:inputType="date"
+                android:paddingStart="75dp"
+                android:paddingEnd="45dp"
+                android:textColor="@color/colorThemeTextColor"
+                android:textColorHint="@color/colorThemeTextColor"
+                app:checkType="dob"
+                app:invalidBackground="@drawable/bg_profile_edt"
+                app:required="true"
+                app:validBackground="@drawable/bg_profile_edt"
+                app:validDrawable="@drawable/ic_correct" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginTop="-7dp"
+                android:paddingStart="45dp"
+                android:src="@drawable/user_dob" />
+        </FrameLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/btn_update"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_marginStart="25dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginEnd="25dp"
+                android:background="@drawable/btn_purple"
+                android:onClick="openHomeMenuActivity"
+                android:text="Update"
+                android:textAllCaps="false"
+                android:textColor="@color/colorWhite"
+                android:textSize="12dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tv_small_title"
+                android:layout_marginTop="35dp"
+                android:alpha=".5"
+                android:padding="2dp"
+                android:text="By tapping continue, you agree to the "
+                android:textAlignment="center"
+                android:textColor="@color/colorThemeTextColor"
+                android:textSize="12dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tv_small_title"
+                android:alpha=".74"
+                android:text="Terms of service"
+                android:textAlignment="center"
+                android:textColor="@color/colorThemeTextColor"
+                android:textSize="12dp" />
+        </LinearLayout>
+    </LinearLayout>
+</layout>

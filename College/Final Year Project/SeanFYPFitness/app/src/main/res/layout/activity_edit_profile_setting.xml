@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorWhite"
+
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/rl_header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:padding="10dp">
+
+        <ImageView
+            android:id="@+id/img_back"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:onClick="onBackPress"
+            android:src="@drawable/ic_back" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:fontFamily="@font/poppins_light"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:text="Settings"
+            android:textAlignment="center"
+            android:textColor="#1E2022"
+            android:textSize="14sp" />
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/footer"
+        android:layout_below="@+id/rl_header"
+        android:background="@drawable/bg_activity">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingStart="25dp"
+            android:paddingTop="25dp"
+            android:paddingEnd="25dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp">
+
+                <TextView
+                    android:id="@+id/tv_rm"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/poppins__medium"
+                    android:text="Remember me"
+                    android:textAlignment="center"
+                    android:textColor="@color/colorThemeTextColor"
+                    android:textSize="14sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/tv_rm"
+                    android:fontFamily="@font/poppins_light"
+                    android:text="Enabled"
+                    android:textAlignment="center"
+                    android:textColor="@color/colorThemeTextColor"
+                    android:textSize="14sp" />
+
+                <Switch
+                    android:id="@+id/switch_remember_me"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:checked="false"
+                    android:thumb="@drawable/switch_thumb_selector"
+                    android:track="@drawable/switch_tack_selector"
+                    tools:ignore="UseSwitchCompatOrMaterialXml" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp">
+
+                <TextView
+                    android:id="@+id/tv_goals"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/poppins__medium"
+                    android:text="Goals"
+                    android:textAlignment="center"
+                    android:textColor="@color/colorThemeTextColor"
+                    android:textSize="14sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/tv_goals"
+                    android:fontFamily="@font/poppins_light"
+                    android:text="Enabled"
+                    android:textAlignment="center"
+                    android:textColor="@color/colorThemeTextColor"
+                    android:textSize="14sp" />
+
+                <Switch
+                    android:id="@+id/switch_goals"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:checked="false"
+                    android:thumb="@drawable/switch_thumb_selector"
+                    android:track="@drawable/switch_tack_selector"
+                    tools:ignore="UseSwitchCompatOrMaterialXml" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp">
+
+                <TextView
+                    android:id="@+id/tv_aa"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/poppins__medium"
+                    android:text="Activity Alerts"
+                    android:textAlignment="center"
+                    android:textColor="@color/colorThemeTextColor"
+                    android:textSize="14sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/tv_aa"
+                    android:fontFamily="@font/poppins_light"
+                    android:text="Enabled"
+                    android:textAlignment="center"
+                    android:textColor="@color/colorThemeTextColor"
+                    android:textSize="14sp" />
+
+                <Switch
+                    android:id="@+id/switch_activity_alerts"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:checked="false"
+                    android:thumb="@drawable/switch_thumb_selector"
+                    android:track="@drawable/switch_tack_selector"
+                    tools:ignore="UseSwitchCompatOrMaterialXml" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp">
+
+                <TextView
+                    android:id="@+id/tv_wa"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/poppins__medium"
+                    android:text="Workout Alert"
+                    android:textAlignment="center"
+                    android:textColor="@color/colorThemeTextColor"
+                    android:textSize="14sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/tv_wa"
+                    android:fontFamily="@font/poppins_light"
+                    android:text="Enabled"
+                    android:textAlignment="center"
+                    android:textColor="@color/colorThemeTextColor"
+                    android:textSize="14sp" />
+
+                <Switch
+                    android:id="@+id/switch_workout_alert"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:checked="false"
+                    android:thumb="@drawable/switch_thumb_selector"
+                    android:track="@drawable/switch_tack_selector"
+                    tools:ignore="UseSwitchCompatOrMaterialXml" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp">
+
+                <TextView
+                    android:id="@+id/tv_ba"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/poppins__medium"
+                    android:text="Booking Alert"
+                    android:textAlignment="center"
+                    android:textColor="@color/colorThemeTextColor"
+                    android:textSize="14sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/tv_ba"
+                    android:fontFamily="@font/poppins_light"
+                    android:text="Enabled"
+                    android:textAlignment="center"
+                    android:textColor="@color/colorThemeTextColor"
+                    android:textSize="14sp" />
+
+                <Switch
+                    android:id="@+id/switch_booking_alert"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:checked="false"
+                    android:thumb="@drawable/switch_thumb_selector"
+                    android:track="@drawable/switch_tack_selector"
+                    tools:ignore="UseSwitchCompatOrMaterialXml" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp">
+
+                <TextView
+                    android:id="@+id/tv_sb"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/poppins__medium"
+                    android:text="Sounds &amp; Beeps"
+                    android:textAlignment="center"
+                    android:textColor="@color/colorThemeTextColor"
+                    android:textSize="14sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/tv_sb"
+                    android:fontFamily="@font/poppins_light"
+                    android:text="Enabled"
+                    android:textAlignment="center"
+                    android:textColor="@color/colorThemeTextColor"
+                    android:textSize="14sp" />
+
+                <Switch
+                    android:id="@+id/switch_sounds_beeps"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:checked="false"
+                    android:thumb="@drawable/switch_thumb_selector"
+                    android:track="@drawable/switch_tack_selector"
+                    tools:ignore="UseSwitchCompatOrMaterialXml" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp">
+
+                <TextView
+                    android:id="@+id/tv_ap"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/poppins__medium"
+                    android:text="About this app"
+                    android:textAlignment="center"
+                    android:textColor="@color/colorThemeTextColor"
+                    android:textSize="14sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/tv_ap"
+                    android:fontFamily="@font/poppins_light"
+                    android:text="Version 1.1.0"
+                    android:textAlignment="center"
+                    android:textColor="@color/colorThemeTextColor"
+                    android:textSize="14sp" />
+            </RelativeLayout>
+        </LinearLayout>
+    </ScrollView>
+
+    <include
+        android:id="@+id/footer"
+        layout="@layout/layout_footer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="bottom" />
+</RelativeLayout>

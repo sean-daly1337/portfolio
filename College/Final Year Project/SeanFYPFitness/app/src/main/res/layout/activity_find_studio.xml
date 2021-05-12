@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+
+        <import type="android.view.View" />
+
+    </data>
+
+    <LinearLayout
+        android:id="@+id/container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingStart="25dp"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        android:paddingEnd="25dp"
+        android:paddingBottom="@dimen/activity_vertical_margin">
+
+        <ImageView
+            android:id="@+id/img_logo"
+            android:layout_width="wrap_content"
+            android:layout_height="150dp"
+            android:layout_marginTop="36dp"
+            android:src="@drawable/cover_logo" />
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="32dp"
+            android:layout_marginEnd="0dp"
+            android:fontFamily="@font/poppins__medium"
+            android:padding="2dp"
+            android:text="@string/app_name"
+            android:textAlignment="center"
+            android:textColor="@color/colorWhite"
+            android:textSize="35dp" />
+
+        <TextView
+            android:id="@+id/tv_des"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tv_title"
+            android:layout_marginTop="30dp"
+            android:padding="2dp"
+            android:text="LET'S FIND YOUR STUDIO FIRST"
+            android:textAlignment="viewStart"
+            android:textColor="@color/colorWhite"
+            android:textSize="17dp" />
+
+        <FrameLayout
+            android:id="@+id/fm_search"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tv_des"
+            android:layout_marginTop="15dp">
+
+            <ImageView
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_gravity="bottom"
+                android:layout_marginBottom="15dp"
+                android:src="@drawable/search_icon" />
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/app_name"
+                android:textColorHint="@color/colorWhite"
+                app:hintTextColor="@color/colorWhite">
+
+                <com.gd70.android.validator.ValidatorEditText
+                    android:id="@+id/edt_find_studio"
+                    style="@style/DefaultEditText"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/edt_theme_default"
+                    android:imeOptions="actionDone"
+                    android:inputType="text"
+                    android:paddingStart="29dp"
+                    android:paddingTop="15dp"
+                    android:paddingBottom="15dp"
+                    app:checkType="alphanumeric"
+                    app:invalidBackground="@drawable/edt_theme_failure"
+                    app:required="true"
+                    app:validBackground="@drawable/edt_theme_success"
+                    app:validDrawable="@drawable/ic_correct" />
+            </com.google.android.material.textfield.TextInputLayout>
+        </FrameLayout>
+
+        <Button
+            android:id="@+id/btn_proceed"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_gravity="end|bottom"
+            android:layout_marginTop="40dp"
+            android:background="@drawable/btn_register"
+            android:fontFamily="@font/poppins__medium"
+            android:onClick="onProceedClicked"
+            android:text="Proceed"
+            android:textAllCaps="false"
+            android:textColor="@color/colorWhite"
+            android:textSize="12sp" />
+
+    </LinearLayout>
+</layout>

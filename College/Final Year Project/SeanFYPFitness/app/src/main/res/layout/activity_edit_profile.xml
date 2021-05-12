@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorWhite"
+
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="155dp"
+        android:background="@drawable/bg_profile_header"
+        android:padding="10dp">
+
+        <ImageView
+            android:id="@+id/img_bmi"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_alignParentStart="true"
+            android:onClick="openBmiActivity"
+            android:src="@drawable/ic_bmi" />
+
+        <ImageView
+            android:id="@+id/img_setting"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_marginEnd="15dp"
+            android:layout_toStartOf="@+id/img_logout"
+            android:onClick="openSettingActivity"
+            android:src="@drawable/ic_setting" />
+
+        <ImageView
+            android:id="@+id/img_logout"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_alignParentEnd="true"
+            android:onClick="logoutUser"
+            android:src="@drawable/logout" />
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/iv_user_avatar"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/bg_profile_pic" />
+
+        <TextView
+            android:id="@+id/tv_username"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/iv_user_avatar"
+            android:paddingTop="7dp"
+            android:text="username"
+            android:textAlignment="center"
+            android:textColor="@color/colorThemeTextColor"
+            android:textSize="16dp" />
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/footer"
+        android:layout_below="@+id/header">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <com.gd70.android.validator.ValidatorEditText
+                    android:id="@+id/edt_user_name"
+                    style="@style/DefaultEditText"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/bg_profile_edt"
+                    android:clickable="false"
+                    android:hint="Full Name"
+                    android:inputType="text"
+                    android:paddingStart="75dp"
+                    android:paddingEnd="45dp"
+                    android:textColor="@color/colorThemeTextColor"
+                    android:textColorHint="@color/colorThemeTextColor"
+                    app:checkType="username"
+                    app:invalidBackground="@drawable/bg_profile_edt"
+                    app:required="true"
+                    app:validBackground="@drawable/bg_profile_edt"
+                    app:validDrawable="@drawable/ic_correct" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:paddingStart="45dp"
+                    android:src="@drawable/user_name" />
+            </FrameLayout>
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <com.gd70.android.validator.ValidatorEditText
+                    android:id="@+id/edt_email"
+                    style="@style/DefaultEditText"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="-15dp"
+                    android:background="@drawable/bg_profile_edt"
+                    android:hint="Email"
+                    android:inputType="textEmailAddress"
+                    android:paddingStart="75dp"
+                    android:paddingEnd="45dp"
+                    android:textColor="@color/colorThemeTextColor"
+                    android:textColorHint="@color/colorThemeTextColor"
+                    app:checkType="email"
+                    app:invalidBackground="@drawable/bg_profile_edt"
+                    app:required="true"
+                    app:validBackground="@drawable/bg_profile_edt"
+                    app:validDrawable="@drawable/ic_correct" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginTop="-7dp"
+                    android:paddingStart="45dp"
+                    android:src="@drawable/user_email" />
+            </FrameLayout>
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <com.gd70.android.validator.ValidatorEditText
+                    android:id="@+id/edt_dob"
+                    style="@style/DefaultEditText"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="-15dp"
+                    android:background="@drawable/bg_profile_edt"
+                    android:hint="Date of birth (DD/MM/YYYY)"
+                    android:inputType="date"
+                    android:paddingStart="75dp"
+                    android:paddingEnd="45dp"
+                    android:textColor="@color/colorThemeTextColor"
+                    android:textColorHint="@color/colorThemeTextColor"
+                    app:checkType="dob"
+                    app:invalidBackground="@drawable/bg_profile_edt"
+                    app:required="true"
+                    app:validBackground="@drawable/bg_profile_edt"
+                    app:validDrawable="@drawable/ic_correct" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginTop="-7dp"
+                    android:paddingStart="45dp"
+                    android:src="@drawable/user_dob" />
+            </FrameLayout>
+
+            <Button
+                android:id="@+id/iv_edit_details"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginStart="15dp"
+                android:layout_marginEnd="15dp"
+                android:background="@drawable/filled_light_green"
+                android:text="save"
+                android:textColor="@color/colorWhite" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="170dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginEnd="20dp"
+                android:background="@drawable/bg_visa_card"
+                android:orientation="vertical"
+                android:padding="10dp">
+
+                <TextView
+                    android:id="@+id/tv_current_balance"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="2dp"
+                    android:text="Current Balance"
+                    android:textColor="@color/colorWhite"
+                    android:textSize="14dp" />
+
+                <ImageView
+                    android:id="@+id/img_visa"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:padding="2dp"
+                    android:src="@drawable/img_visa_logo" />
+
+                <TextView
+                    android:id="@+id/tv_usd"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/tv_current_balance"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/img_currency"
+                    android:fontFamily="@font/poppins_bold"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:padding="2dp"
+                    android:text="USD"
+                    android:textAlignment="gravity"
+                    android:textColor="@color/colorWhite"
+                    android:textSize="14dp" />
+
+                <EditText
+                    android:id="@+id/tv_card_number"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/tv_usd"
+                    android:layout_marginTop="10dp"
+                    android:fontFamily="@font/poppins_bold"
+                    android:padding="2dp"
+                    android:text="****  ****  ****  7281"
+                    android:textColor="@color/colorWhite"
+                    android:textSize="20dp" />
+
+                <EditText
+                    android:id="@+id/tv_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:padding="2dp"
+                    android:text="Mr Antono Hann"
+                    android:textColor="@color/colorWhite"
+                    android:textSize="12dp" />
+
+                <EditText
+                    android:id="@+id/tv_expiry"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentBottom="true"
+                    android:padding="2dp"
+                    android:text="09/18"
+                    android:textColor="@color/colorWhite"
+                    android:textSize="12dp" />
+
+            </RelativeLayout>
+
+            <Button
+                android:id="@+id/iv_card_edit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="15dp"
+                android:layout_marginStart="15dp"
+                android:layout_marginEnd="15dp"
+                android:background="@drawable/filled_light_green"
+                android:text="save"
+                android:textColor="@color/colorWhite" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="30dp"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+    <include
+        android:id="@+id/footer"
+        layout="@layout/layout_footer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true" />
+</RelativeLayout>

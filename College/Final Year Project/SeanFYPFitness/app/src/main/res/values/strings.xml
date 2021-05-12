@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">SeanFypFitness</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (min 6 characters long)</string>
+    <string name="action_sign_in">LOGIN</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="login">Login</string>
+    <string name="loading">Loading...</string>
+    <string name="your_bmi_is">Your BMI is</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="unblock">Unblock user</string>
+    <string name="block">Block user</string>
+    <string name="cancel">Cancel Appointment</string>
+    <string name="log_out">Log out</string>
+    <string name="add_new_product">Add New Product</string>
+    <string name="product_name">Product name</string>
+    <string name="product_name_required">Please enter product name</string>
+    <string name="product_desc">Product description</string>
+    <string name="product_desc_required">Please enter product description</string>
+    <string name="sanitisation">Sanitisation details</string>
+    <string name="sanitised_by">Sanitised by</string>
+    <string name="sanitised_by_required">Please enter sanitised by</string>
+    <string name="last_clean_date">Last clean date</string>
+    <string name="last_clean_date_required">Please select last clean date</string>
+    <string name="last_clean_time">Last clean time</string>
+    <string name="last_clean_time_required">Please select last clean time</string>
+    <string name="how_often_it_is_cleaned">How often it is cleaned</string>
+    <string name="how_often_it_is_cleaned_required">Please enter how often it is cleaned</string>
+    <string name="click_here_to_select_date">Click here to select date</string>
+    <string name="click_here_to_select_time">Click here to select time</string>
+    <string name="add_product">Save product</string>
+    <string name="file_provider_name" translatable="false">.fileProvider</string>
+    <string name="choose_image">Capture/Select Image</string>
+    <string name="image_required">Please select image first</string>
+    <string name="adding_product">Saving Product - %1$s</string>
+
+    <string name="product_details">Product details</string>
+    <string name="product_qr_code">Product QR Code</string>
+    <string name="delete">Delete product</string>
+    <string name="edit">Edit product</string>
+
+</resources>
