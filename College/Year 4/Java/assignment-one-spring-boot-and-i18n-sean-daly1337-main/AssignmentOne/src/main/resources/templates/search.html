@@ -1,0 +1,43 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org">
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+            <title th:text="#{SearchPage}"></title>
+    </head>
+
+    <center>
+    
+            <div th:switch="${#locale.language}">
+                <p th:case="en"><th th:text="#{English}"></p>
+                <p th:case="fr"><th th:text="#{French}"></p>
+            </div>
+        <div class="dropdown-menu" aria-labelledby="languages">
+            <a class="dropdown-item" th:href="@{?lang=en}"><th th:text="#{English}"></a>
+            <a class="dropdown-item" th:href="@{?lang=fr}"><th th:text="#{French}"></a>
+
+        </div>
+    </center>
+    <center>
+        <br>
+        <br>
+        <form action="#" th:action="@{/SearchFunctionality}" th:object="${Vaccinations}" method="post" >
+            <label><th th:text="#{Search}"></th></label>
+            <input type="text" name="search" /><br/>
+            <br/>
+            <label><th th:text="#{From}"></th></label>
+            <input type="date" name="searchDateFrom" /><br/>
+            <br/>
+            <label><th th:text="#{To}"></th></label><input type="date" name="searchDateTo" /><br/>
+            <br/>
+            <input type="submit" value="Submit" />
+            <br/>
+        </form>
+    </center>
+</html>
+
